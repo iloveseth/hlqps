@@ -1,0 +1,6 @@
+INT,STRING,STRING,STRING
+ID,Name,Desc,ICON
+编号,名称,描述,图标
+1,Gold,金币,Gold
+2,Bao,元宝,Bao
+3,Gem,钻石,Gem
